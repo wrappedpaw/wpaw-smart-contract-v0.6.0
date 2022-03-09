@@ -1,9 +1,11 @@
-# wBAN -- Wrapped Banano
+# wPAW -- Wrapped PAW
 
-This projet is part of a bigger one allowing to swap [Banano](https://banano.cc) crypto to `wBAN` (Wrapped Banano)
+Specific fork of v0.6.0 for backend compatibility.
+
+This projet is part of a bigger one allowing to swap [PAW](https://paw.digital) crypto to `wPAW` (Wrapped PAW)
 on Binance Smart Chain, and vice-versa.
 
-`wBAN` is implemented as a [BEP20](https://github.com/binance-chain/BEPs/blob/master/BEP20.md) token.
+`wPAW` is implemented as a [BEP20](https://github.com/binance-chain/BEPs/blob/master/BEP20.md) token.
 
 This repository contains both the smart-contract code as well as the frontend.
 
